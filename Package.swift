@@ -4,10 +4,10 @@
 import PackageDescription
 import Foundation
 
-let version = "2.17.0-beta.1"
-let checksum = "e0275e121474443056d39bcc2a8a7a70688bc5e6f7fcec731733d263e6f81d32"
-let commonVersion: Version = "24.17.0-beta.1"
-let releaseType = "releases"
+let version = "2.20.0-SNAPSHOT-02-11--05-01.git-469165d"
+let checksum = "f6c0ce7e672a641b977167b83efb87026958214c6aacf1e21de40b4faedf6c46"
+let commonVersion: Version = "24.20.0-SNAPSHOT-02-11--05-01.git-469165d"
+let releaseType = "snapshots"
 
 let package = Package(
     name: "MapboxCoreSearch",
