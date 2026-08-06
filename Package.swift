@@ -4,9 +4,9 @@
 import PackageDescription
 import Foundation
 
-let version = "2.17.0-beta.1"
-let checksum = "e0275e121474443056d39bcc2a8a7a70688bc5e6f7fcec731733d263e6f81d32"
-let commonVersion: Version = "24.17.0-beta.1"
+let version = "2.29.0-alpha.3"
+let checksum = "3f9002ed923f12e7d3bfb5bc112da199d6dbbe133079a4ce5363c7c6896a465a"
+let commonVersion: Version = "24.29.0-alpha.3"
 let releaseType = "releases"
 
 let package = Package(
